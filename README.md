@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development or Python Mini Projects.**
 
-- 💬 Ask me about **HTML,CSS,Python,Bootstrap,Php**
+- 💬 Ask me about **HTML,CSS,Bootstrap,C++,Python**
 
 - 📫 How to reach me **ishantkhurana8@gmail.com**
 
